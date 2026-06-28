@@ -352,6 +352,8 @@ The dashboard successfully:
 - Generated a stacked area visualization highlighting trends
 
 ---
+## Output
+![image alt](https://github.com/yashrajmohanty03-ai/Ev4/blob/0b5d30079abb6e28cdc7ec391afa0833bb0b7b99/op%204.png)
 
 ## Conclusion
 
